@@ -117,11 +117,4 @@ This project is deployed on Streamlit and is accessible at:
 
 Feel free to reach out with any questions or feedback.
 
-Best regards,
-
-Dhruv Kumar  
-Global Alpha Researcher, India  
-+91 9560623783  
-[LinkedIn](#) | [GitHub](#)
-
 ---
